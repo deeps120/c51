@@ -1,0 +1,35 @@
+ /*{
+    border:solid;
+}
+*/
+h1{
+    color:#0000ff;
+}
+.header{
+    background-color: #71d3d3;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+p,h2{
+    text-align: center;
+    
+}
+.item{
+    border:solid;
+}
+body{
+   /* background-image: url("bgimg.jpg");
+    background-repeat:no-repeat;
+    background-size:1500px 1500px;*/
+    background-color: #808080;
+}
